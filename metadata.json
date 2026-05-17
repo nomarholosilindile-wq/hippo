@@ -1,0 +1,6 @@
+{
+  "name": "Hippo Perfumes",
+  "description": "Premium luxury fragrance and beauty brand offering a curated selection of scents and skincare products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
