@@ -1,11 +1,13 @@
-export interface Product {
+export interface Vehicle {
   id: string;
   name: string;
+  brand: string;
   price: number;
-  creditPrice?: number;
-  category: "Perfume" | "Lotion" | "Roll-On" | "Diffuser" | "Collagen";
-  scentProfile?: "Sweet" | "Bold" | "Fruity";
+  year: number;
+  mileage: number;
+  fuelType: "Petrol" | "Diesel" | "Electric" | "Hybrid";
+  transmission: "Manual" | "Automatic";
   description: string;
-  isBestSeller?: boolean;
   imageUrl: string;
+  isHotDeal?: boolean;
 }
