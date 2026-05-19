@@ -69,7 +69,10 @@ export const products: Product[] = [
 ];
 
 export const reviews = [
-  { id: 1, name: "Sarah M.", rating: 5, text: "Absolutely obsessed with the sweet scent! It lasts all day." },
-  { id: 2, name: "David L.", rating: 5, text: "The bold scent is perfect for meetings. Very professional and long-lasting." },
-  { id: 3, name: "Jessica K.", rating: 4, text: "Great value for money. The roll-on is my handbag essential." },
+  { id: 1, name: "Sarah M.", rating: 5, date: "2026-05-10", text: "The car I bought is in pristine condition and drives like a dream!" },
+  { id: 2, name: "David L.", rating: 5, date: "2026-05-12", text: "Excellent customer service. The buying process was incredibly smooth and transparent." },
+  { id: 3, name: "Jessica K.", rating: 4, date: "2026-05-14", text: "Great value for money. Highly recommend Cars Plug for anyone looking for reliable vehicles." },
+  { id: 4, name: "Michael B.", rating: 5, date: "2026-05-16", text: "The financing options were very flexible. Truly a game changer in the car buying experience!" },
+  { id: 5, name: "Emily R.", rating: 5, date: "2026-05-18", text: "So happy with my new vehicle! The quality is outstanding, and it exceeded my expectations." },
+  { id: 6, name: "James T.", rating: 4, date: "2026-05-19", text: "Quick delivery and the staff was very knowledgeable. Definitely my go-to for future car purchases." },
 ];

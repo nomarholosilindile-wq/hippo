@@ -6,4 +6,4 @@ export function cn(...inputs: ClassValue[]) {
 }
 
 export const getWhatsAppLink = (vehicleName: string) =>
-  `https://wa.me/27711078327?text=${encodeURIComponent(`Hi CARS PLUG, I want to inquire about this vehicle: ${vehicleName}.`)}`;
+  `https://wa.me/27655479547?text=${encodeURIComponent(`Hi CARS PLUG, I want to inquire about this vehicle: ${vehicleName}.`)}`;

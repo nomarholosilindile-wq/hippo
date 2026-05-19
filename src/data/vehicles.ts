@@ -11,6 +11,7 @@ export const vehicles: Vehicle[] = [
     fuelType: "Petrol",
     transmission: "Manual",
     description: "Velocity 1.4i. Cash: R18,000 | Deposit: R3,000 | Monthly: R2,500 | Follow us on TikTok",
+    isHotDeal: true,
     imageUrl: "/images/car3.jpeg",
   },
   {
@@ -35,6 +36,7 @@ export const vehicles: Vehicle[] = [
     fuelType: "Hybrid",
     transmission: "Manual",
     description: "Modern efficiency meets reliable design. Cash: R18,000 | Deposit: R3,000 | Monthly: R2,500 | Follow us on TikTok",
+    isHotDeal: true,
     imageUrl: "/images/car7.jpeg",
   },
   {
@@ -119,6 +121,7 @@ export const vehicles: Vehicle[] = [
     fuelType: "Petrol",
     transmission: "Automatic",
     description: "VW HIGHLINE TSI 1.0. Cash: R30,000 | Deposit: R6,000 | Monthly: To be advised | Follow us on TikTok",
+    isHotDeal: true,
     imageUrl: "/images/car17.jpeg",
   },
 ];
